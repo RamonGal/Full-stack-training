@@ -1,0 +1,29 @@
+{
+  "name": "full-stack-training",
+  "version": "1.0.0",
+  "description": "This is a test diretory for git and node",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamonGal/Full-stack-training.git"
+  },
+  "keywords": [
+    "Node",
+    "Git",
+    "Bootstrap"
+  ],
+  "author": "Ramon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamonGal/Full-stack-training/issues"
+  },
+  "homepage": "https://github.com/RamonGal/Full-stack-training#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
