@@ -23,7 +23,7 @@
     "url": "https://github.com/RamonGal/Full-stack-training/issues"
   },
   "homepage": "https://github.com/RamonGal/Full-stack-training#readme",
-  "dependencies": {
+  "devDependencies": {
     "lite-server": "^2.6.1"
   }
 }
