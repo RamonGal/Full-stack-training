@@ -31,6 +31,11 @@ body {
 .navbar-dark {
   background-color: #15438F;
 }
+
+.nav-link{
+  color:#15438F;
+}
+
 .tab-content {
   border-left: 1px solid #ddd;
   border-right: 1px solid #ddd;
@@ -56,21 +61,32 @@ body {
   z-index: 1;
 }
 
-.map-container-2{
-overflow:hidden;
-padding-bottom:10%;
-position:relative;
-height:0;
+.modal-header{
+  color:white;
+  background-color:#2078A1;
 }
 
-.map-container-2 iframe{
-left:0;
-top:0;
-height:100%;
-width:100%;
-position:absolute;
+.btn-primary{
+  background-color:#2078A1;
 }
 
-.col-vert{
-    margin-top: 1em;
+.bg-default {
+  background-color:#2078A1;
+}
+
+.bg-light {
+  background-color:#2078a162;
+}
+
+.thead {
+  background-color:#2078A1;
+  color:white;
+}
+
+.form-item{
+  color: #0f0f0f;
+}
+
+.col-form-label{
+  color: #0f0f0f;
 }
